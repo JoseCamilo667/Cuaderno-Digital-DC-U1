@@ -1,6 +1,5 @@
 # 📘 Semana 2 · Álgebra Booleana y Simplificación de Funciones Lógicas
 
-> **📁 Archivo:** `semana-02.md`  
 > **🎯 Unidad:** 1 – Análisis de lógica combinacional con diseño clásico.  
 > **💡 Resultado de aprendizaje:** Aplica leyes y teoremas booleanos para optimizar expresiones lógicas y circuitos digitales.
 
