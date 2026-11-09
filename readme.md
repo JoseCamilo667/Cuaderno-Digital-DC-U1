@@ -4,6 +4,10 @@
 
 # UNIVERSIDAD NACIONAL DE LOJA
 
+
+<img width="500" height="500" alt="LOGO EN GRANDE UNL" src="https://github.com/user-attachments/assets/6caabb96-9c1e-4b6a-891e-fe644bfb3128" />
+
+
 ### Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 
 ### Carrera de Computación
