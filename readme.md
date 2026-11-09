@@ -1,78 +1,70 @@
+# 📘 CUADERNO DIGITAL – DISEÑO DE CIRCUITOS
+
 <div align="center">
 
 # UNIVERSIDAD NACIONAL DE LOJA
 
-### FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
+### Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 
-### CARRERA DE COMPUTACIÓN
-
-<br>
-
-# CUADERNO DIGITAL
-
-## DISEÑO DE CIRCUITOS
+### Carrera de Computación
 
 <br>
 
-### UNIDAD 1
+## CUADERNO DIGITAL
 
-# ANÁLISIS DE LÓGICA COMBINACIONAL CON DISEÑO CLÁSICO
+# DISEÑO DE CIRCUITOS
 
 <br>
 
-**Estudiante:** Camilo Merino
+**Estudiante:** Camilo Merino  
+**Docente:** Ing. Luis Darío Sinche Cueva  
+**Ciclo:** Segundo ciclo  
+**Modalidad:** Presencial  
+**Período académico:** Septiembre 2026 – Marzo 2027  
 
-**Asignatura:** Diseño de Circuitos
+<br>
 
-**Docente:** Ing. Luis Darío Sinche Cueva
-
-**Ciclo:** Segundo
-
-**Período académico:** Septiembre 2026 – Marzo 2027
-
-**Modalidad:** Presencial
-
-<br><br>
-
-### LOJA – ECUADOR
-
-### 2026
+**Loja – Ecuador**  
+**2026**
 
 </div>
 
 ---
 
-## PRESENTACIÓN
+## 📖 Presentación
 
-El presente cuaderno digital recopila los principales contenidos
-teóricos y prácticos correspondientes a la Unidad 1 de la asignatura
-Diseño de Circuitos.
+El presente cuaderno digital recopila los contenidos, conceptos, ejercicios y actividades desarrollados durante la Unidad 1 de la asignatura de Diseño de Circuitos.
 
-Su finalidad es organizar los conocimientos adquiridos durante las
-primeras cuatro semanas de clases, relacionados con los fundamentos
-de la lógica combinacional y el diseño clásico de circuitos digitales.
+Su finalidad es organizar los conocimientos adquiridos semanalmente, facilitando el estudio y la comprensión de los fundamentos necesarios para el diseño e implementación de circuitos digitales.
 
-A través de este documento se presentan conceptos, explicaciones,
-tablas de verdad, expresiones booleanas, ejemplos resueltos y
-actividades prácticas que permiten comprender cómo se diseñan,
-simplifican y verifican los circuitos lógicos.
+A través de explicaciones, ejemplos y actividades prácticas, se busca fortalecer el aprendizaje de los sistemas numéricos, el álgebra booleana, la simplificación de funciones lógicas y el diseño de circuitos combinacionales.
 
-## OBJETIVO GENERAL
+## 🎯 Objetivo general
 
-Comprender los fundamentos de la lógica combinacional mediante
-el estudio de los sistemas numéricos, las compuertas lógicas,
-el álgebra de Boole, los mapas de Karnaugh y los circuitos
-aritméticos, aplicando técnicas de diseño clásico.
+Comprender los fundamentos del diseño de circuitos digitales mediante el estudio de los sistemas numéricos, las operaciones lógicas y las técnicas de simplificación, aplicándolos en el análisis y diseño de circuitos combinacionales básicos.
 
-## CONTENIDO
+## 📚 Contenido de la Unidad 1
 
-1. Semana 1: Sistemas numéricos, códigos y compuertas lógicas.
-2. Semana 2: Álgebra de Boole y formas canónicas.
-3. Semana 3: Mapas de Karnaugh y optimización lógica.
-4. Semana 4: Bloques combinacionales aritméticos.
+El cuaderno se encuentra organizado por semanas para facilitar la revisión y el seguimiento de los temas estudiados.
 
-## RESULTADO DE APRENDIZAJE DE LA UNIDAD
+| Semana | Tema principal | Archivo |
+|:---:|---|---|
+| 01 | Sistemas numéricos, códigos y compuertas lógicas | [semana-01.md](semana-01.md) |
+| 02 | Álgebra booleana y simplificación de funciones lógicas | [semana-02.md](semana-02.md) |
+| 03 | Mapas de Karnaugh y simplificación de circuitos | [semana-03.md](semana-03.md) |
+| 04 | Diseño de circuitos combinacionales básicos | [semana-04.md](semana-04.md) |
 
-Diseña e implementa circuitos combinacionales básicos utilizando
-técnicas de diseño clásico, bajo los principios de solidaridad,
-transparencia, responsabilidad y honestidad.
+## 🗂️ Organización del cuaderno
+
+```text
+📁 cuaderno-digital-diseno-circuitos
+│
+├── 📄 README.md
+│
+├── 📄 semana-01.md
+│
+├── 📄 semana-02.md
+│
+├── 📄 semana-03.md
+│
+└── 📄 semana-04.md
