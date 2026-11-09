@@ -1,4 +1,4 @@
-# 📘 CUADERNO DIGITAL – DISEÑO DE CIRCUITOS
+
 
 <div align="center">
 
@@ -12,9 +12,10 @@
 
 ### Carrera de Computación
 
+
 <br>
 
-## CUADERNO DIGITAL
+## 📘 CUADERNO DIGITAL 📘 
 
 # DISEÑO DE CIRCUITOS
 
