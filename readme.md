@@ -25,6 +25,7 @@
 **Docente:** Ing. Luis Darío Sinche Cueva  
 **Ciclo:** Segundo ciclo  
 **Modalidad:** Presencial  
+**Unidad:** Primera 
 **Período académico:** Septiembre 2026 – Marzo 2027  
 
 <br>
