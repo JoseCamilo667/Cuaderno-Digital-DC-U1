@@ -74,3 +74,26 @@ El cuaderno se encuentra organizado por semanas para facilitar la revisión y el
 ├── 📄 semana-03.md
 │
 └── 📄 semana-04.md
+```
+
+
+# 🏁 CONCLUSIONES
+
+## 📘 Semana 01: Sistemas numéricos y compuertas lógicas
+
+Durante esta semana aprendí a realizar conversiones entre diferentes sistemas numéricos y a comprender cómo funcionan las compuertas lógicas. Estos temas me ayudaron a entender mejor cómo se representa y procesa la información en los circuitos digitales.
+
+## 📘 Semana 02: Álgebra booleana
+
+En esta semana aprendí a utilizar las leyes del álgebra booleana para simplificar expresiones lógicas. Mediante los ejercicios pude comprender cómo reducir funciones y obtener circuitos más sencillos y eficientes.
+
+## 📘 Semana 03: Mapas de Karnaugh
+
+Durante esta semana aprendí a simplificar funciones booleanas utilizando mapas de Karnaugh. Los ejercicios me ayudaron a identificar agrupaciones y reducir operaciones lógicas, comprendiendo mejor cómo optimizar los circuitos digitales.
+
+## 📘 Semana 04: Circuitos combinacionales
+
+En esta semana aprendí cómo funcionan y se diseñan los circuitos combinacionales. También trabajé con tablas de verdad, compuertas lógicas y circuitos sumadores, lo que me permitió relacionar los conocimientos aprendidos con aplicaciones prácticas.
+
+
+
