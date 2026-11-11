@@ -165,39 +165,17 @@ Se desea construir un sistema de alarma que se active cuando **al menos dos** de
 
 > 💡 Esta expresión activa la alarma de forma optimizada cuando al menos dos sensores se encuentran activos (`1`).
 
----
 
-## 🛠️ 10. Actividad Práctica
-
-### 🎯 Taller: Simplificación de Expresiones Booleanas
-* **Objetivo:** Aplicar las leyes del álgebra booleana para simplificar funciones lógicas de manera eficiente.
-
-**📝 Procedimiento sugerido:**
-1. 🔍 Identificar las variables de entrada y salida de cada expresión.
-2. 👁️ Reconocer las propiedades y leyes que pueden aplicarse (factor común, complemento, absorción).
-3. ✍️ Simplificar la expresión paso a paso documentando cada ley utilizada.
-4. 📊 Comprobar la equivalencia del resultado mediante una tabla de verdad.
-5. ⚡ Representar el circuito lógico equivalente con compuertas básicas.
 
 ---
 
-## 🧠 11. Aprendizaje Autónomo
-
-* 🔍 Investigar a profundidad las propiedades del álgebra booleana.
-* ✍️ Resolver ejercicios prácticos de simplificación algebraica.
-* 🔄 Aplicar los teoremas de De Morgan en circuitos combinacionales.
-* 🆚 Identificar las diferencias prácticas entre las formas SOP y POS.
-* 📊 Elaborar tablas de verdad para diferentes funciones lógicas personalizadas.
-
----
-
-## 🏁 12. Conclusión
+## 🏁 10. Conclusión
 
 El álgebra booleana es el pilar matemático que permite modelar y optimizar el comportamiento de los sistemas digitales modernos. Mediante la aplicación metódica de sus leyes y teoremas, es posible condensar expresiones complejas en circuitos minimalistas, reduciendo el consumo energético, el costo de hardware y maximizando la velocidad de procesamiento.
 
 ---
 
-## 📚 13. Bibliografía
+## 📚 11. Bibliografía
 
 * 📖 Mano, M. M. *Diseño digital*.
 * 📖 Floyd, T. L. *Fundamentos de sistemas digitales*.
