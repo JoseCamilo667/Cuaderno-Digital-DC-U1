@@ -139,40 +139,16 @@ Los mapas de Karnaugh se aplican cotidianamente en:
 * 📉 La reducción drástica de compuertas electrónicas físicas.
 * ⚡ La optimización de retardos de propagación en circuitos digitales.
 
----
-
-## 🎯 12. Actividad Práctica
-
-### 🧑‍💻 Taller: Simplificación mediante Mapas de Karnaugh
-* **Objetivo:** Aplicar mapas de Karnaugh para obtener expresiones booleanas optimizadas a partir de problemas prácticos.
-
-**📝 Procedimiento sugerido:**
-1. 📋 Seleccionar una función lógica o problema de diseño.
-2. 📊 Construir su respectiva tabla de verdad.
-3. 🗺️ Volcar los resultados sobre un mapa de Karnaugh de 3 o 4 variables.
-4. 📦 Identificar visualmente y trazar los grupos óptimos de unos.
-5. ✍️ Obtener la expresión booleana simplificada resultante.
-6. ⚖️ Comparar la complejidad de la expresión original frente a la simplificada.
 
 ---
 
-## 🧠 13. Aprendizaje Autónomo
-
-* ✍️ Resolver múltiples ejercicios de mapas de Karnaugh de 2, 3 y 4 variables.
-* 🆚 Investigar y contrastar las diferencias prácticas entre las formas lógicas SOP y POS.
-* 👁️ Practicar la visión espacial para la correcta identificación de grupos adyacentes y en esquinas.
-* 🔍 Investigar la importancia teórica y económica de las compuertas universales en la fabricación de circuitos integrados.
-* 📊 Comparar esquemáticamente los circuitos lógicos originales y los optimizados.
-
----
-
-## 🏁 14. Conclusión
+## 🏁 12. Conclusión
 
 Los mapas de Karnaugh constituyen una herramienta metodológica fundamental para el análisis y simplificación de funciones booleanas. Su uso sistemático permite reducir de forma geométrica la complejidad de los circuitos digitales, minimizando el número de compuertas físicas requeridas, reduciendo el consumo energético y facilitando la implementación exitosa de sistemas combinacionales robustos.
 
 ---
 
-## 📚 15. Bibliografía
+## 📚 13. Bibliografía
 
 * 📖 Mano, M. M. *Diseño digital*.
 * 📖 Floyd, T. L. *Fundamentos de sistemas digitales*.
